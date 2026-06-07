@@ -9,7 +9,7 @@
 - 💼 Currently working as a **Data Analytics Intern**, diving deep into data insights.
 - 🚀 I'm actively building and working on a major **Data Science Project**.
 - 📚 Continuous learner focused on sharpening my machine learning and predictive modeling skills.
-- 📬 Reach me at: **[Your Email Here]** or via **[Your LinkedIn Link Here]**
+- 📬 Reach me at: **soutipradhan@gmail.com** or via **Souti Pradhan**
 
 ---
 

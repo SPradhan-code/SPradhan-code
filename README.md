@@ -5,11 +5,10 @@
 ---
 
 ## 👤 About Me
-- 🧠 I'm a massive fan of software development, Data Science, and everything Python!
-- 💼 Currently working as a **Data Analytics Intern**, diving deep into data insights.
-- 🚀 I'm actively building and working on a major **Data Science Project**.
-- 📚 Continuous learner focused on sharpening my machine learning and predictive modeling skills.
-- 📬 Reach me at: **soutipradhan@gmail.com** or [**Souti Pradhan**](https://www.linkedin.com/in/souti-pradhan-42a949273/)
+## Souti Pradhan · CSE @ Adamas University
+B.Tech CSE (2024–2028) | C · C++ · Python · SQL · DSA · OOP | Building efficient, real-world software.
+Projects: Bank Account System (C++/OOP) · Student Performance Analyzer (Python/Pandas) · Sorting Benchmarker (DSA)
+📬 soutipradhan@gmail.com · [LinkedIn](https://www.linkedin.com/in/souti-pradhan-42a949273)(https://www.linkedin.com/in/souti-pradhan-42a949273/)
 
 ---
 

@@ -7,8 +7,9 @@
 ## 👤 About Me
 ## Souti Pradhan · CSE @ Adamas University
 B.Tech CSE (2024–2028) | C · C++ · Python · SQL · DSA · OOP | Building efficient, real-world software.
-Projects: Bank Account System (C++/OOP) · Student Performance Analyzer (Python/Pandas) · Sorting Benchmarker (DSA)
-📬 soutipradhan@gmail.com · [LinkedIn](https://www.linkedin.com/in/souti-pradhan-42a949273)(https://www.linkedin.com/in/souti-pradhan-42a949273/)
+Projects: 
+Email- soutipradhan@gmail.com ·
+LinkedIn- https://www.linkedin.com/in/souti-pradhan-42a949273/
 
 ---
 

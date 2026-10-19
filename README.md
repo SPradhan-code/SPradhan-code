@@ -17,7 +17,6 @@
 <a href="https://www.linkedin.com/in/souti-pradhan-42a949273/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <a href="mailto:soutipradhan@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=SPradhan-code&style=flat-square&color=8B5CF6&label=VISITORS" alt="Profile visitor counter" />
 
 </div>
 

@@ -1,106 +1,169 @@
-# 👋 Hi, I'm Souti Pradhan
+<!-- ✨ PROFILE README — replace the old README.md with this entire file -->
 
-### B.Tech Computer Science & Engineering Student | Student Developer | Exploring Software Development, Data Analytics & Applied AI
+<div align="center">
 
-I’m a CSE student at **Adamas University** (2024–2028), learning by building practical projects. I’m interested in software development, Python, data analytics, and applied AI. I’m currently looking for my first internship and welcome feedback on my work.
+<!-- Animated-style banner rendered by an external SVG service -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090E1A,35:263A70,70:6C3CE8,100:00D4FF&height=210&section=header&text=SOUTI%20PRADHAN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20to%20learn%20how%20they%20work&descAlignY=60&descSize=17&animation=fadeIn" alt="Souti Pradhan — profile banner" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-SPradhan--code-181717?logo=github)](https://github.com/SPradhan-code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/souti-pradhan-42a949273/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:soutipradhan@gmail.com)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=54D9FF&center=true&vCenter=true&width=700&lines=CSE+Student+%40+Adamas+University;Developer+in+progress+%F0%9F%9B%A0%EF%B8%8F;Exploring+Software+%7C+Data+%7C+Applied+AI;Learn.+Build.+Break.+Fix.+Repeat." alt="Typing introduction" /></a>
 
----
+<br/>
 
-## 🧭 About Me
+<a href="https://github.com/SPradhan-code"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/souti-pradhan-42a949273/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:soutipradhan@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-- 🎓 B.Tech CSE, Adamas University (2024–2028)
-- 💻 Practising full-stack development, Python, databases, and problem-solving
-- 📊 Interested in data analytics and applied AI
-- 🧪 Building projects to learn testing, debugging, and application design
-- 🤝 Open to internship opportunities, collaboration, and constructive feedback
+![Profile views](https://komarev.com/ghpvc/?username=SPradhan-code&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
 
-I label project status honestly: some projects are usable or complete, while others are still in development or are prototypes. Project descriptions below do not claim unverified performance or hardware testing.
-
-## 🛠️ Languages, Tools & Technologies
-
-**Languages:** Python · JavaScript · TypeScript · SQL · C++  
-**Web:** React · Vite · Next.js · Node.js · Express  
-**Data & AI:** Pandas · NumPy · YOLOv8 · ONNX Runtime  
-**Databases & Services:** MySQL · Firebase · Supabase  
-**Tools:** Git · GitHub · VS Code · Docker
+</div>
 
 ---
 
-## 🚀 Projects
+## ⚡ A little about me
 
-### 1. [RaktOra](https://github.com/SPradhan-code/RaktOra) — Usable
-**Blood network and inventory-management application**
+> **Not here to pretend I know everything — I'm here to keep building until I do.**
 
-Explores donor workflows, role-based dashboards, appointment workflows, and FEFO (First Expired, First Out) inventory allocation.
+Hey! I'm **Souti**, a B.Tech Computer Science & Engineering student at **Adamas University** (2024–2028), based in India. I learn best by turning ideas into projects, chasing bugs, and figuring out why things work (or don't 😅).
 
-**Stack:** React · Node.js · Express · MySQL
+- 🧑‍🎓 **Currently:** studying CSE and building my project portfolio
+- 🧩 **Into:** software development, Python, data analytics, and applied AI
+- 🔧 **Learning by doing:** APIs, databases, UI workflows, testing, and debugging
+- 🌱 **Looking for:** my first internship, collaborators, and honest feedback
+- 💬 **My rule:** ship what works, label what is unfinished, and keep improving
 
-#### RaktOra — conceptual system diagram
+<div align="center">
 
-> This is a simplified conceptual diagram based on the portfolio project's description. It is not a verified production deployment map; update it if the implementation changes.
+`CURIOUSITY → BUILD → TEST → DEBUG → LEARN → REPEAT`
+
+</div>
+
+## 🧰 My toolbox
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,mysql&theme=dark" alt="Python, JavaScript, TypeScript, C++, and MySQL icons" />
+
+### Web & frameworks
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express&theme=dark" alt="React, Vite, Next.js, Node.js, and Express icons" />
+
+### Data, services & developer tools
+<img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,vscode,docker&theme=dark" alt="Firebase, Supabase, Git, GitHub, VS Code, and Docker icons" />
+
+</div>
+
+<sub>These are technologies I've used or explored across projects—not a claim of expert-level proficiency in every tool.</sub>
+
+---
+
+## 🚀 Things I've been building
+
+<div align="center">
+
+| Project | Current status | The idea |
+|:--|:--:|:--|
+| 🩸 **[RaktOra](https://github.com/SPradhan-code/RaktOra)** | 🟢 Usable | Blood-network workflows, role-based dashboards, appointments, and FEFO inventory allocation |
+| 🗓️ **[Attendance Portal](https://github.com/SPradhan-code/Attendance-Portal)** | 🟡 In progress | Attendance workflows exploring QR codes, location checks, and authentication |
+| 📚 **[AI Study Planner](https://github.com/SPradhan-code/AI-StudyPlanner)** | 🔵 Complete | Organizing study plans and learning activities |
+| 🧠 **[Snapdragon Edge AI Inspector](https://github.com/SPradhan-code/snapdragon-edge-ai-inspector)** | 🔵 Complete* | Computer-vision inspection workflow using YOLOv8 and ONNX Runtime |
+| 📄 **[AI Decoder](https://github.com/SPradhan-code/AI-Decoder-)** | 🧪 Prototype | AI-assisted document and PDF understanding |
+| 🎵 **[LED DJ Sync](https://github.com/SPradhan-code/led-bt-sync)** | 🟡 In progress | Exploring music-reactive LED control in the browser |
+| 🧹 **[Chat-Cleanser](https://github.com/SPradhan-code/Chat-Cleanser)** | 🧪 Prototype | Cleaning and normalizing exported chat logs with text-processing rules |
+
+</div>
+
+<sub>🟢 Usable · 🔵 Complete · 🟡 In progress · 🧪 Prototype. *Physical Snapdragon-device performance has not been verified. Chat-Cleanser is a text-cleanup prototype, not a verified toxicity classifier.</sub>
+
+### 🩸 RaktOra — how the pieces fit together
 
 ```mermaid
 flowchart LR
-    U[People / Staff / Donors] --> W[Web Client<br/>React UI]
-    W -->|HTTPS / API| A[REST API<br/>Node.js / Express]
-    A -->|authorize| AU[Authentication<br/>JWT / role checks]
-    A -->|queries| DB[(MySQL Database<br/>Inventory / Appointments)]
-    DB -->|stock data| F[FEFO Allocation<br/>Expiry-first inventory]
-    F -->|allocation result| A
+    U([Donors / Staff]) --> UI[React Web Interface]
+    UI -->|API requests| API[Node.js + Express REST API]
+    API --> AUTH{Authentication & role checks}
+    AUTH --> DATA[(MySQL Database)]
+    DATA --> INV[FEFO inventory allocation]
+    INV --> API
+    API --> UI
+    style U fill:#172554,stroke:#60a5fa,color:#fff
+    style UI fill:#312e81,stroke:#a5b4fc,color:#fff
+    style API fill:#164e63,stroke:#67e8f9,color:#fff
+    style AUTH fill:#4c1d95,stroke:#c4b5fd,color:#fff
+    style DATA fill:#064e3b,stroke:#6ee7b7,color:#fff
+    style INV fill:#7c2d12,stroke:#fdba74,color:#fff
 ```
 
-### 2. [Attendance Portal](https://github.com/SPradhan-code/Attendance-Portal) — In development
-Attendance-management project exploring authentication, QR-based attendance, location verification, and faculty workflows.
+<sub>Conceptual overview from the project's described features—not a verified production deployment map. The diagram is rendered by GitHub's Mermaid support.</sub>
 
-**Stack:** Next.js · TypeScript · Supabase · WebAuthn  
-**Draft deployment:** [Open website](https://attendance-portal-jade.vercel.app)
+### 🔗 Try the Attendance Portal draft
 
-### 3. [AI Study Planner](https://github.com/SPradhan-code/AI-StudyPlanner) — Complete
-Study-planning application built to help organize learning activities and track study progress.
+<div align="center">
 
-**Stack:** React · Vite · Firebase
+[![Open Attendance Portal](https://img.shields.io/badge/OPEN-ATTENDANCE_PORTAL-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://attendance-portal-jade.vercel.app)
 
-### 4. [Snapdragon Edge AI Inspector](https://github.com/SPradhan-code/snapdragon-edge-ai-inspector) — Complete; physical hardware validation pending
-Computer-vision inspection application exploring YOLOv8 and ONNX Runtime inference workflows. **Physical Snapdragon-device performance has not been verified.**
-
-**Stack:** Python · YOLOv8 · ONNX Runtime · PyQt6
-
-### 5. [AI Decoder](https://github.com/SPradhan-code/AI-Decoder-) — Prototype
-Prototype exploring AI-assisted document understanding and PDF-processing workflows.
-
-**Stack:** Python · Streamlit · Gemini API
-
-### 6. [LED DJ Sync](https://github.com/SPradhan-code/led-bt-sync) — In development
-Browser-based project exploring music-beat detection and Bluetooth-connected LED synchronization.
-
-**Stack:** JavaScript · Web Audio API · Web Bluetooth
-
-### 7. [Chat-Cleanser](https://github.com/SPradhan-code/Chat-Cleanser) — Prototype
-Python text-processing prototype for cleaning and normalizing exported chat logs. It should not be interpreted as a verified toxicity-classification system.
-
-**Stack:** Python · Regular expressions · Text processing
+</div>
 
 ---
 
-## 📜 Certificates & Activities
+## 🏅 Learning milestones
 
-- **Deloitte Data Analytics Job Simulation** — completed June 7, 2026; forensic technology and data analytics tasks.
-- **Tata GenAI Powered Data Analytics Job Simulation** — completed June 12, 2026; exploratory data analysis, risk profiling, delinquency prediction, reporting, and AI-supported collections strategy.
-- **FutureSkills Prime / Nasscom IT-ITeS SSC — Gen AI Tools course** — certificate issued August 22, 2026.
-- **RRR-A Game Jam** — participation certificate; IIT (ISM) Dhanbad, team `soutipradhan27`, Adamas University.
+<details>
+<summary><b>📊 Deloitte — Data Analytics Job Simulation</b> · June 7, 2026</summary>
+
+Completed simulation tasks involving forensic technology and data analytics.
+</details>
+
+<details>
+<summary><b>📈 Tata — GenAI Powered Data Analytics Job Simulation</b> · June 12, 2026</summary>
+
+Worked through simulation activities involving exploratory data analysis, risk profiling, delinquency prediction, reporting, and an AI-supported collections strategy.
+</details>
+
+<details>
+<summary><b>🤖 FutureSkills Prime / Nasscom IT-ITeS SSC — Gen AI Tools</b> · August 22, 2026</summary>
+
+Course certificate issued for Gen AI Tools.
+</details>
+
+<details>
+<summary><b>🎮 RRR-A Game Jam — Participation</b></summary>
+
+Participation certificate from IIT (ISM) Dhanbad; team `soutipradhan27`, Adamas University.
+</details>
 
 ---
 
-## 📫 Connect
+## 📈 My GitHub corner
 
-- **GitHub:** [SPradhan-code](https://github.com/SPradhan-code)
-- **LinkedIn:** [Souti Pradhan](https://www.linkedin.com/in/souti-pradhan-42a949273/)
-- **Email:** [soutipradhan@gmail.com](mailto:soutipradhan@gmail.com)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SPradhan-code&show_icons=true&hide_border=true&bg_color=0D1117&title_color=54D9FF&icon_color=9B8CFF&text_color=E6EDF3&rank_icon=github" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPradhan-code&layout=compact&hide_border=true&bg_color=0D1117&title_color=54D9FF&text_color=E6EDF3" alt="Most used languages" />
+
+<img width="95%" src="https://streak-stats.demolab.com?user=SPradhan-code&hide_border=true&background=0D1117&ring=7C3AED&fire=54D9FF&currStreakLabel=54D9FF&sideLabels=E6EDF3&dates=9CA3AF" alt="GitHub contribution streak" />
+
+</div>
+
+<sub>Stats and language charts are generated by external services and may occasionally be unavailable or delayed. Language percentages reflect repository contents, not skill level.</sub>
 
 ---
 
-<sub>Built to share projects and learning progress. Project statuses and technical claims are intentionally limited to what has been described and verified.</sub>
+## 🤝 Let's connect
+
+Got an idea, feedback on one of my projects, or an internship opportunity? I'd be happy to hear from you.
+
+<div align="center">
+
+<a href="https://github.com/SPradhan-code"><img src="https://img.shields.io/badge/Explore_my_repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+<a href="https://www.linkedin.com/in/souti-pradhan-42a949273/"><img src="https://img.shields.io/badge/Find_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+<a href="mailto:soutipradhan@gmail.com"><img src="https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Souti" /></a>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,45:6C3CE8,100:090E1A&height=100&section=footer" alt="Decorative footer banner" />
+
+**Thanks for stopping by ✨**
+
+<sub>Still learning. Still building. Always open to useful feedback.</sub>
+
+</div>

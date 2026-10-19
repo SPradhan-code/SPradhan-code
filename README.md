@@ -290,16 +290,12 @@ Participation certificate from IIT (ISM) Dhanbad; team `soutipradhan27`, Adamas 
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SPradhan-code&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPradhan-code&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=E2E8F0" alt="Top languages in repositories" />
-
-<img width="75%" src="https://streak-stats.demolab.com?user=SPradhan-code&hide_border=true&background=0B1020&ring=7C3AED&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=E2E8F0&dates=94A3B8" alt="GitHub contribution streak" />
 
 </div>
 
 <sub>Stats are delivered by external services and may occasionally be unavailable or delayed. Repository language statistics indicate file composition, not skill proficiency.</sub>
 
-## 🤝 COLLAB // `open.channel`
 
 I'm looking for opportunities to **learn with other developers, get constructive feedback, contribute to useful projects, and apply for internships**. I'm especially interested in practical software, data, and applied-AI work.
 

@@ -185,19 +185,6 @@ Text-cleanup prototype for normalizing exported chat logs using rule-based proce
 <tr>
 <td align="center" width="50%" valign="top">
 
-### 🎛️ LED DJ Sync
-
-<a href="https://github.com/SPradhan-code/led-bt-sync"><img src="https://img.shields.io/badge/OPEN%20PROJECT-LED%20DJ%20Sync-9D174D?style=for-the-badge&logo=github&logoColor=white" alt="Open LED DJ Sync" /></a>
-
-Browser-based exploration of music-reactive LED control.
-
-`Web Audio` · `Web Bluetooth`
-
-<img src="https://img.shields.io/badge/STATUS-In%20Progress-EAB308?style=flat-square" alt="In progress" />
-
-</td>
-<td align="center" width="50%" valign="top">
-
 ### 🧪 More experiments
 
 I keep experimenting with small builds, data workflows, UI ideas, and developer tooling as I learn.
@@ -286,7 +273,7 @@ Participation certificate from IIT (ISM) Dhanbad; team `soutipradhan27`, Adamas 
 
 [![animated divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/SPradhan-code)
 
-## 📊 VITAL STATS // `github.telemetry`
+## 📊 VITAL STATS 
 
 <div align="center">
 
@@ -294,7 +281,6 @@ Participation certificate from IIT (ISM) Dhanbad; team `soutipradhan27`, Adamas 
 
 </div>
 
-<sub>Stats are delivered by external services and may occasionally be unavailable or delayed. Repository language statistics indicate file composition, not skill proficiency.</sub>
 
 
 I'm looking for opportunities to **learn with other developers, get constructive feedback, contribute to useful projects, and apply for internships**. I'm especially interested in practical software, data, and applied-AI work.

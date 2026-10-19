@@ -1,168 +1,319 @@
-<!-- ✨ PROFILE README — replace the old README.md with this entire file -->
+<!--
+  SOUTI PRADHAN | GitHub Profile README
+  Style direction: neon system-console / navigation portal, inspired by the reference profile's
+  layered banner, visual access panels, animated dividers, technology grid, stats, and contact zone.
+  All project statuses and claims below are intentionally conservative.
+-->
 
 <div align="center">
 
-<!-- Animated-style banner rendered by an external SVG service -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090E1A,35:263A70,70:6C3CE8,100:00D4FF&height=210&section=header&text=SOUTI%20PRADHAN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20to%20learn%20how%20they%20work&descAlignY=60&descSize=17&animation=fadeIn" alt="Souti Pradhan — profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,25:172554,55:5B21B6,78:0891B2,100:090E1A&height=230&section=header&text=SOUTI%20PRADHAN&fontSize=54&fontColor=F8FAFC&fontAlignY=36&desc=SOFTWARE%20%E2%80%A2%20DATA%20%E2%80%A2%20APPLIED%20AI&descSize=17&descAlignY=59&animation=twinkling" alt="Souti Pradhan — neon system profile banner" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=54D9FF&center=true&vCenter=true&width=700&lines=CSE+Student+%40+Adamas+University;Developer+in+progress+%F0%9F%9B%A0%EF%B8%8F;Exploring+Software+%7C+Data+%7C+Applied+AI;Learn.+Build.+Break.+Fix.+Repeat." alt="Typing introduction" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=750&lines=CSE+student+at+Adamas+University;I+learn+by+building+real+projects;Software+%7C+Data+Analytics+%7C+Applied+AI;Build.+Test.+Debug.+Learn.+Repeat." alt="Rotating introduction" />
 
 <br/>
 
-<a href="https://github.com/SPradhan-code"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/souti-pradhan-42a949273/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:soutipradhan@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/SPradhan-code"><img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://www.linkedin.com/in/souti-pradhan-42a949273/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+<a href="mailto:soutipradhan@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-![Profile views](https://komarev.com/ghpvc/?username=SPradhan-code&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=SPradhan-code&style=flat-square&color=8B5CF6&label=VISITORS" alt="Profile visitor counter" />
 
 </div>
 
----
+[![neon divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/SPradhan-code)
 
-## ⚡ A little about me
+<!-- START HERE / PORTAL -->
+<div align="center">
 
-> **Not here to pretend I know everything — I'm here to keep building until I do.**
+## ◈ START HERE · PROFILE CONTROL DECK
 
-Hey! I'm **Souti**, a B.Tech Computer Science & Engineering student at **Adamas University** (2024–2028), based in India. I learn best by turning ideas into projects, chasing bugs, and figuring out why things work (or don't 😅).
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <a href="#-about-me"><img src="https://img.shields.io/badge/01-ABOUT-172554?style=for-the-badge&labelColor=0B1020" alt="About" /></a><br/>
+      <sub>Who I am</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="#-project-lab"><img src="https://img.shields.io/badge/02-PROJECTS-4C1D95?style=for-the-badge&labelColor=0B1020" alt="Projects" /></a><br/>
+      <sub>What I'm building</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="#-toolkit"><img src="https://img.shields.io/badge/03-TOOLKIT-164E63?style=for-the-badge&labelColor=0B1020" alt="Toolkit" /></a><br/>
+      <sub>What I use</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="#-connect"><img src="https://img.shields.io/badge/04-CONTACT-7C2D12?style=for-the-badge&labelColor=0B1020" alt="Contact" /></a><br/>
+      <sub>Say hello</sub>
+    </td>
+  </tr>
+</table>
 
-- 🧑‍🎓 **Currently:** studying CSE and building my project portfolio
-- 🧩 **Into:** software development, Python, data analytics, and applied AI
-- 🔧 **Learning by doing:** APIs, databases, UI workflows, testing, and debugging
-- 🌱 **Looking for:** my first internship, collaborators, and honest feedback
-- 💬 **My rule:** ship what works, label what is unfinished, and keep improving
+</div>
+
+[![neon divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/SPradhan-code)
+
+## ◉ ABOUT ME // `profile.info`
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+Hey! I'm **Souti Pradhan**, a B.Tech Computer Science & Engineering student at **Adamas University** (2024–2028), based in India.
+
+I'm learning by making things: applications, data workflows, and applied-AI prototypes. I like taking an idea from a rough sketch to something people can try—and learning from the bugs along the way.
+
+- 🎓 **Focus:** Computer Science & Engineering
+- 🛠️ **Exploring:** software development, Python, data analytics, applied AI
+- 🧪 **My workflow:** build → test → debug → document → improve
+- 🌱 **Next goal:** an internship where I can contribute, learn from a team, and grow as an engineer
+
+</td>
+<td width="38%" valign="middle" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SPradhan-code&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" alt="GitHub profile overview" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-`CURIOUSITY → BUILD → TEST → DEBUG → LEARN → REPEAT`
+`[ CURIOSITY ]` ━━━▶ `[ BUILD ]` ━━━▶ `[ TEST ]` ━━━▶ `[ DEBUG ]` ━━━▶ `[ LEARN ]` ↺
 
 </div>
 
-## 🧰 My toolbox
+[![animated divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/SPradhan-code)
+
+## 🧭 SYSTEM ACCESS // `project.portal`
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,mysql&theme=dark" alt="Python, JavaScript, TypeScript, C++, and MySQL icons" />
+<table width="100%">
+<tr>
+<td align="center" width="50%" valign="top">
 
-### Web & frameworks
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express&theme=dark" alt="React, Vite, Next.js, Node.js, and Express icons" />
+### 🩸 RaktOra
 
-### Data, services & developer tools
-<img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,vscode,docker&theme=dark" alt="Firebase, Supabase, Git, GitHub, VS Code, and Docker icons" />
+<a href="https://github.com/SPradhan-code/RaktOra"><img src="https://img.shields.io/badge/OPEN%20PROJECT-RaktOra-7F1D1D?style=for-the-badge&logo=github&logoColor=white" alt="Open RaktOra" /></a>
+
+**Blood network & FEFO inventory engine**
+
+Role-based dashboards, appointment workflows, and FEFO-oriented blood inventory allocation.
+
+`React` · `Node.js` · `REST API` · `MySQL`
+
+<img src="https://img.shields.io/badge/STATUS-Usable-16A34A?style=flat-square" alt="Usable project" />
+
+</td>
+<td align="center" width="50%" valign="top">
+
+### 🗓️ Attendance Portal
+
+<a href="https://github.com/SPradhan-code/Attendance-Portal"><img src="https://img.shields.io/badge/OPEN%20REPO-Attendance%20Portal-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Open Attendance Portal repository" /></a>
+
+<a href="https://attendance-portal-jade.vercel.app"><img src="https://img.shields.io/badge/OPEN-Live%20Draft-0F766E?style=flat-square&logo=vercel&logoColor=white" alt="Open live draft" /></a>
+
+Attendance workflows exploring QR codes, location checks, and authentication.
+
+`Next.js` · `Supabase` · `WebAuthn`
+
+<img src="https://img.shields.io/badge/STATUS-In%20Progress-EAB308?style=flat-square" alt="In progress" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+### 🧠 Snapdragon Edge AI Inspector
+
+<a href="https://github.com/SPradhan-code/snapdragon-edge-ai-inspector"><img src="https://img.shields.io/badge/OPEN%20PROJECT-Edge%20AI%20Inspector-5B21B6?style=for-the-badge&logo=github&logoColor=white" alt="Open Edge AI Inspector" /></a>
+
+Computer-vision inspection workflow built with YOLOv8, ONNX Runtime, and PyQt6.
+
+`Python` · `YOLOv8` · `ONNX Runtime` · `PyQt6`
+
+<img src="https://img.shields.io/badge/STATUS-Project%20Complete-2563EB?style=flat-square" alt="Project complete" />
+
+<sub>Actual performance on physical Snapdragon hardware has not been verified.</sub>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+### 📚 AI Study Planner
+
+<a href="https://github.com/SPradhan-code/AI-StudyPlanner"><img src="https://img.shields.io/badge/OPEN%20PROJECT-AI%20Study%20Planner-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Open AI Study Planner" /></a>
+
+A web app for organizing study plans and learning activities.
+
+`React` · `Vite` · `Firebase`
+
+<img src="https://img.shields.io/badge/STATUS-Project%20Complete-2563EB?style=flat-square" alt="Project complete" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+### 📄 AI Decoder
+
+<a href="https://github.com/SPradhan-code/AI-Decoder-"><img src="https://img.shields.io/badge/OPEN%20PROJECT-AI%20Decoder-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Open AI Decoder" /></a>
+
+Prototype for AI-assisted document and PDF understanding.
+
+`Python` · `Streamlit` · `Gemini`
+
+<img src="https://img.shields.io/badge/STATUS-Prototype-D97706?style=flat-square" alt="Prototype" />
+
+</td>
+<td align="center" width="50%" valign="top">
+
+### 🧹 Chat-Cleanser
+
+<a href="https://github.com/SPradhan-code/Chat-Cleanser"><img src="https://img.shields.io/badge/OPEN%20PROJECT-Chat--Cleanser-475569?style=for-the-badge&logo=github&logoColor=white" alt="Open Chat Cleanser" /></a>
+
+Text-cleanup prototype for normalizing exported chat logs using rule-based processing.
+
+`Python` · `Text Processing`
+
+<img src="https://img.shields.io/badge/STATUS-Prototype-D97706?style=flat-square" alt="Prototype" />
+
+<sub>Not presented as a verified toxicity classifier.</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+### 🎛️ LED DJ Sync
+
+<a href="https://github.com/SPradhan-code/led-bt-sync"><img src="https://img.shields.io/badge/OPEN%20PROJECT-LED%20DJ%20Sync-9D174D?style=for-the-badge&logo=github&logoColor=white" alt="Open LED DJ Sync" /></a>
+
+Browser-based exploration of music-reactive LED control.
+
+`Web Audio` · `Web Bluetooth`
+
+<img src="https://img.shields.io/badge/STATUS-In%20Progress-EAB308?style=flat-square" alt="In progress" />
+
+</td>
+<td align="center" width="50%" valign="top">
+
+### 🧪 More experiments
+
+I keep experimenting with small builds, data workflows, UI ideas, and developer tooling as I learn.
+
+<a href="https://github.com/SPradhan-code?tab=repositories"><img src="https://img.shields.io/badge/BROWSE-ALL%20REPOSITORIES-334155?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories" /></a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<sub>These are technologies I've used or explored across projects—not a claim of expert-level proficiency in every tool.</sub>
+[![neon divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/SPradhan-code)
 
----
-
-## 🚀 Things I've been building
+## 🩸 RAKTORA // SYSTEM FLOW
 
 <div align="center">
-
-| Project | Current status | The idea |
-|:--|:--:|:--|
-| 🩸 **[RaktOra](https://github.com/SPradhan-code/RaktOra)** | 🟢 Usable | Blood-network workflows, role-based dashboards, appointments, and FEFO inventory allocation |
-| 🗓️ **[Attendance Portal](https://github.com/SPradhan-code/Attendance-Portal)** | 🟡 In progress | Attendance workflows exploring QR codes, location checks, and authentication |
-| 📚 **[AI Study Planner](https://github.com/SPradhan-code/AI-StudyPlanner)** | 🔵 Complete | Organizing study plans and learning activities |
-| 🧠 **[Snapdragon Edge AI Inspector](https://github.com/SPradhan-code/snapdragon-edge-ai-inspector)** | 🔵 Complete* | Computer-vision inspection workflow using YOLOv8 and ONNX Runtime |
-| 📄 **[AI Decoder](https://github.com/SPradhan-code/AI-Decoder-)** | 🧪 Prototype | AI-assisted document and PDF understanding |
-| 🎵 **[LED DJ Sync](https://github.com/SPradhan-code/led-bt-sync)** | 🟡 In progress | Exploring music-reactive LED control in the browser |
-| 🧹 **[Chat-Cleanser](https://github.com/SPradhan-code/Chat-Cleanser)** | 🧪 Prototype | Cleaning and normalizing exported chat logs with text-processing rules |
-
-</div>
-
-<sub>🟢 Usable · 🔵 Complete · 🟡 In progress · 🧪 Prototype. *Physical Snapdragon-device performance has not been verified. Chat-Cleanser is a text-cleanup prototype, not a verified toxicity classifier.</sub>
-
-### 🩸 RaktOra — how the pieces fit together
 
 ```mermaid
 flowchart LR
-    U([Donors / Staff]) --> UI[React Web Interface]
-    UI -->|API requests| API[Node.js + Express REST API]
-    API --> AUTH{Authentication & role checks}
-    AUTH --> DATA[(MySQL Database)]
-    DATA --> INV[FEFO inventory allocation]
+    D([Donors / Staff]) --> FE[Web Interface]
+    FE --> API[REST API]
+    API --> AUTH{Authentication + Role Checks}
+    AUTH --> DB[(MySQL)]
+    DB --> INV[FEFO Inventory Allocation]
     INV --> API
-    API --> UI
-    style U fill:#172554,stroke:#60a5fa,color:#fff
-    style UI fill:#312e81,stroke:#a5b4fc,color:#fff
-    style API fill:#164e63,stroke:#67e8f9,color:#fff
-    style AUTH fill:#4c1d95,stroke:#c4b5fd,color:#fff
-    style DATA fill:#064e3b,stroke:#6ee7b7,color:#fff
-    style INV fill:#7c2d12,stroke:#fdba74,color:#fff
+    API --> FE
+    style D fill:#172554,stroke:#60A5FA,color:#F8FAFC
+    style FE fill:#312E81,stroke:#A5B4FC,color:#F8FAFC
+    style API fill:#164E63,stroke:#67E8F9,color:#F8FAFC
+    style AUTH fill:#4C1D95,stroke:#C4B5FD,color:#F8FAFC
+    style DB fill:#064E3B,stroke:#6EE7B7,color:#F8FAFC
+    style INV fill:#7C2D12,stroke:#FDBA74,color:#F8FAFC
 ```
 
-<sub>Conceptual overview from the project's described features—not a verified production deployment map. The diagram is rendered by GitHub's Mermaid support.</sub>
-
-### 🔗 Try the Attendance Portal draft
-
-<div align="center">
-
-[![Open Attendance Portal](https://img.shields.io/badge/OPEN-ATTENDANCE_PORTAL-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://attendance-portal-jade.vercel.app)
+<sub>A conceptual diagram of the described project features; it is not a verified production infrastructure map.</sub>
 
 </div>
 
----
+[![animated divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/SPradhan-code)
 
-## 🏅 Learning milestones
+## 🧰 TOOLKIT // `stack.index`
+
+<div align="center">
+
+### Languages & data
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,mysql&theme=dark" alt="Python, C++, JavaScript, TypeScript, and MySQL" />
+
+### Web development
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express&theme=dark" alt="React, Vite, Next.js, Node.js, and Express" />
+
+### Platforms & workflow
+<img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,vscode,docker&theme=dark" alt="Firebase, Supabase, Git, GitHub, VS Code, and Docker" />
+
+</div>
+
+<blockquote>
+  <b>Small print:</b> these are tools I've used or explored in projects. The icon wall is not a claim of expert-level proficiency in every technology.
+</blockquote>
+
+## 📡 LEARNING LOG // `credentials.index`
 
 <details>
-<summary><b>📊 Deloitte — Data Analytics Job Simulation</b> · June 7, 2026</summary>
+<summary><b>📊 Deloitte — Data Analytics Job Simulation</b> · 7 June 2026</summary>
 
-Completed simulation tasks involving forensic technology and data analytics.
+Simulation activities involving forensic technology and data analytics.
 </details>
 
 <details>
-<summary><b>📈 Tata — GenAI Powered Data Analytics Job Simulation</b> · June 12, 2026</summary>
+<summary><b>📈 Tata — GenAI Powered Data Analytics Job Simulation</b> · 12 June 2026</summary>
 
-Worked through simulation activities involving exploratory data analysis, risk profiling, delinquency prediction, reporting, and an AI-supported collections strategy.
+Simulation activities covering exploratory data analysis, risk profiling, delinquency prediction, reporting, and an AI-supported collections strategy.
 </details>
 
 <details>
-<summary><b>🤖 FutureSkills Prime / Nasscom IT-ITeS SSC — Gen AI Tools</b> · August 22, 2026</summary>
+<summary><b>🤖 FutureSkills Prime / Nasscom IT-ITeS SSC — Gen AI Tools</b> · 22 August 2026</summary>
 
 Course certificate issued for Gen AI Tools.
 </details>
 
 <details>
-<summary><b>🎮 RRR-A Game Jam — Participation</b></summary>
+<summary><b>🎮 RRR-A Game Jam — Participation Certificate</b></summary>
 
 Participation certificate from IIT (ISM) Dhanbad; team `soutipradhan27`, Adamas University.
 </details>
 
----
+[![animated divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/SPradhan-code)
 
-## 📈 My GitHub corner
+## 📊 VITAL STATS // `github.telemetry`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SPradhan-code&show_icons=true&hide_border=true&bg_color=0D1117&title_color=54D9FF&icon_color=9B8CFF&text_color=E6EDF3&rank_icon=github" alt="GitHub profile statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPradhan-code&layout=compact&hide_border=true&bg_color=0D1117&title_color=54D9FF&text_color=E6EDF3" alt="Most used languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SPradhan-code&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPradhan-code&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=E2E8F0" alt="Top languages in repositories" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=SPradhan-code&hide_border=true&background=0D1117&ring=7C3AED&fire=54D9FF&currStreakLabel=54D9FF&sideLabels=E6EDF3&dates=9CA3AF" alt="GitHub contribution streak" />
+<img width="75%" src="https://streak-stats.demolab.com?user=SPradhan-code&hide_border=true&background=0B1020&ring=7C3AED&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=E2E8F0&dates=94A3B8" alt="GitHub contribution streak" />
 
 </div>
 
-<sub>Stats and language charts are generated by external services and may occasionally be unavailable or delayed. Language percentages reflect repository contents, not skill level.</sub>
+<sub>Stats are delivered by external services and may occasionally be unavailable or delayed. Repository language statistics indicate file composition, not skill proficiency.</sub>
 
----
+## 🤝 COLLAB // `open.channel`
 
-## 🤝 Let's connect
+I'm looking for opportunities to **learn with other developers, get constructive feedback, contribute to useful projects, and apply for internships**. I'm especially interested in practical software, data, and applied-AI work.
 
-Got an idea, feedback on one of my projects, or an internship opportunity? I'd be happy to hear from you.
+<div align="center" id="connect">
 
-<div align="center">
+<a href="https://github.com/SPradhan-code"><img src="https://img.shields.io/badge/GITHUB-Projects%20%26%20code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
+<a href="https://www.linkedin.com/in/souti-pradhan-42a949273/"><img src="https://img.shields.io/badge/LINKEDIN-Professional%20profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:soutipradhan@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<a href="https://github.com/SPradhan-code"><img src="https://img.shields.io/badge/Explore_my_repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-<a href="https://www.linkedin.com/in/souti-pradhan-42a949273/"><img src="https://img.shields.io/badge/Find_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-<a href="mailto:soutipradhan@gmail.com"><img src="https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Souti" /></a>
+<br/><br/>
 
-<br/>
+<code>Thanks for visiting — leave a star on a repo if you find it useful ⭐</code>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,45:6C3CE8,100:090E1A&height=100&section=footer" alt="Decorative footer banner" />
-
-**Thanks for stopping by ✨**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,45:5B21B6,100:080B16&height=120&section=footer" alt="Neon wave footer" />
 
 <sub>Still learning. Still building. Always open to useful feedback.</sub>
 
